@@ -1,33 +1,33 @@
 body {
-    
-    background: black;    
+
+    background: black;
 }
 
 
 .col-sm-9 {
-    
-    padding: 0; 
-    
+
+    padding: 0;
+
 }
 
 .col-sm-3 {
-    
-    padding: 0; 
-    
+
+    padding: 0;
+
 }
 
 h1 {
- 
-    color: white; 
+    font-family: 'Lobster Two', cursive;
+    color: white;
 }
 
 h5 {
-    color: gray; 
+    color: gray;
 }
 
 .footer {
     position: fixed;
     bottom: 8px;
-    margin: auto; 
-    text-align: center; 
+    margin: auto;
+    text-align: center;
 }
