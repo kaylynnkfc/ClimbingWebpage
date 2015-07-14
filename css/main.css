@@ -1,0 +1,33 @@
+body {
+    
+    background: black;    
+}
+
+
+.col-sm-9 {
+    
+    padding: 0; 
+    
+}
+
+.col-sm-3 {
+    
+    padding: 0; 
+    
+}
+
+h1 {
+ 
+    color: white; 
+}
+
+h5 {
+    color: gray; 
+}
+
+.footer {
+    position: fixed;
+    bottom: 8px;
+    margin: auto; 
+    text-align: center; 
+}
